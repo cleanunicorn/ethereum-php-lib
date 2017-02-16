@@ -1,5 +1,5 @@
 {
-    "name": "digitaldonkey/ethereum-php-lib",
+    "name": "hydrarulz/ethereum-php-lib",
     "description": "The PHP library for requesting data from an Ethereum client through JSON RPC by HTTP.",
     "require": {
         "php": ">=5.6",
